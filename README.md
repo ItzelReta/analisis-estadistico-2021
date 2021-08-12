@@ -7,4 +7,4 @@
   * (https://github.com/ItzelReta/analisis-estadistico-2021/blob/fa17a5a9ea7fc4608238e00ccc04363627a345f0/Laboratorio-1.pdf)
 
 * [Tarea 1] 
-  * (https://github.com/ItzelReta/analisis-estadistico-2021/blob/fa17a5a9ea7fc4608238e00ccc04363627a345f0/Tarea-1.pdf)
+  * (https://github.com/ItzelReta/analisis-estadistico-2021/blob/752e52d616868cad7c6838f6ee33487b04e9b0de/Tarea_1.pdf)
